@@ -1,0 +1,15 @@
+{
+	"name": "dfmallikanew",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5ff30fd6-4d95-4558-96c8-79dedb8ec815",
+		"tenantId": "19fa33da-fcae-4483-9b3c-8db74bd460d1"
+	}
+}
